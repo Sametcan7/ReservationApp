@@ -1,16 +1,16 @@
-**Kurulum**
+**Kurulum İçin Aşağıdaki Yönelgeleri Takip Etmelisiniz**
 
 1. Deponun klonunu oluştur:
 > git clone https://github.com/Sametcan7/ReservationApp.git
 
-2. client dizininde bağımlılıkları indirmek için aşağıdaki kodu yaz;
+2. Client dizininde bağımlılıkları indirmek için komut satırına aşağıdaki kodu ekle;
 > npm install
-- Tamamlandıktan sonra uygulamayı başlatmak için aşağıdaki kodu yaz;
+- Tamamlandıktan sonra uygulamayı başlatmak için komut satırına aşağıdaki kodu ekle;
 > npm run dev
 
-3. server dizininde bağımlılıkları indirmek için aşağıdaki kodu yaz;
+3. Server dizininde bağımlılıkları indirmek için komut satırına aşağıdaki kodu ekle;
 > npm install
-- Tamamlandıktan sonra serveri başlatmak için aşağıdaki kodu yaz;
+- Tamamlandıktan sonra serveri başlatmak için komut satırına aşağıdaki kodu ekle;
 > nodemon index.js
 
 <img src="client/screenshots/1.png" width="500px"/>
