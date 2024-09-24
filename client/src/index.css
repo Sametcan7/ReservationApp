@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  background-color: rgb(166 197 232);
+}
+
+input[type="datetime-local"]::-webkit-calendar-picker-indicator {
+ 
+  position: absolute;
+  left: 5px;
+  height: 25px;
+  width: 25px;
+  top: 50%;
+
+  cursor: pointer;
+  transform: translateY(-50%);
+  filter: brightness(0) saturate(100%) invert(29%) sepia(41%) saturate(4003%) hue-rotate(218deg) brightness(82%) contrast(107%);
+}
