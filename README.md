@@ -13,24 +13,24 @@
 - Tamamlandıktan sonra serveri başlatmak için aşağıdaki kodu yaz;
 > nodemon index.js
 
-<img src="client/screenshots/1.png" width="250px"/>
+<img src="client/screenshots/1.png" width="500px"/>
 
 <br>
 <br>
 
-<img src="client/screenshots/2.png" width="250px"/>
+<img src="client/screenshots/2.png" width="500px"/>
 
 <br>
 <br>
 
-<img src="client/screenshots/3.png" width="250px"/>
+<img src="client/screenshots/3.png" width="500px"/>
 
 <br>
 <br>
 
-<img src="client/screenshots/4.png" width="250px"/>
+<img src="client/screenshots/4.png" width="500px"/>
 
 <br>
 <br>
 
-<img src="client/screenshots/5.png" width="250px"/>
+<img src="client/screenshots/5.png" width="500px"/>
