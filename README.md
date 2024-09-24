@@ -1,7 +1,7 @@
 **Kurulum**
 
 1. Deponun klonunu oluştur:
-> git clone https://github.com/Sametcan7/pRojectDesktop.git
+> git clone https://github.com/Sametcan7/ReservationApp.git
 
 2. client dizininde bağımlılıkları indirmek için aşağıdaki kodu yaz;
 > npm install
